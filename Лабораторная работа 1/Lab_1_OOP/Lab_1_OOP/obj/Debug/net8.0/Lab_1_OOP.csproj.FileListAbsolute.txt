@@ -1,0 +1,14 @@
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\bin\Debug\net8.0\Lab_1_OOP.exe
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\bin\Debug\net8.0\Lab_1_OOP.deps.json
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\bin\Debug\net8.0\Lab_1_OOP.runtimeconfig.json
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\bin\Debug\net8.0\Lab_1_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\bin\Debug\net8.0\Lab_1_OOP.pdb
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.AssemblyInfoInputs.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.AssemblyInfo.cs
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.csproj.CoreCompileInputs.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\refint\Lab_1_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.pdb
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\Lab_1_OOP.genruntimeconfig.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 1\Lab_1_OOP\Lab_1_OOP\obj\Debug\net8.0\ref\Lab_1_OOP.dll

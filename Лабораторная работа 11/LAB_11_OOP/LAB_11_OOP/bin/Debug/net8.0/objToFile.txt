@@ -1,0 +1,50 @@
+Объект: LAB_11_OOP.User
+
+Сборки: LAB_11_OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Конструкторы: 
+Void .ctor()
+
+Методы: 
+Void add_upgrade(UpgradeUser)
+Void remove_upgrade(UpgradeUser)
+Void add_work(UserWork)
+Void remove_work(UserWork)
+System.String get_Name()
+Void set_Name(System.String)
+System.String get_Surname()
+Void set_Surname(System.String)
+System.String get_Password()
+Void set_Password(System.String)
+Void PrintInformation()
+Void Upgrade(System.String, System.String, System.String)
+Void Work()
+System.Type GetType()
+System.Object MemberwiseClone()
+Void Finalize()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+
+Поля: 
+UpgradeUser upgrade
+UserWork work
+System.String <Name>k__BackingField
+System.String <Surname>k__BackingField
+System.String <Password>k__BackingField
+
+Свойства: 
+UpgradeUser upgrade
+UserWork work
+System.String <Name>k__BackingField
+System.String <Surname>k__BackingField
+System.String <Password>k__BackingField
+
+Интерфейсы: 
+UpgradeUser upgrade
+UserWork work
+System.String <Name>k__BackingField
+System.String <Surname>k__BackingField
+System.String <Password>k__BackingField
+
+

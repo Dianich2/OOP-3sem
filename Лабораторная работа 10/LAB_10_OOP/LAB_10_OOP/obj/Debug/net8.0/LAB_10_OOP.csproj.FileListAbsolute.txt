@@ -1,0 +1,14 @@
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\bin\Debug\net8.0\LAB_10_OOP.exe
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\bin\Debug\net8.0\LAB_10_OOP.deps.json
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\bin\Debug\net8.0\LAB_10_OOP.runtimeconfig.json
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\bin\Debug\net8.0\LAB_10_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\bin\Debug\net8.0\LAB_10_OOP.pdb
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.AssemblyInfoInputs.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.AssemblyInfo.cs
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.csproj.CoreCompileInputs.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\refint\LAB_10_OOP.dll
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.pdb
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\LAB_10_OOP.genruntimeconfig.cache
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 10\LAB_10_OOP\LAB_10_OOP\obj\Debug\net8.0\ref\LAB_10_OOP.dll

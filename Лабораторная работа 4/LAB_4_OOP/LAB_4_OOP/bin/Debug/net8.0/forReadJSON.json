@@ -1,0 +1,22 @@
+[
+    {
+        "Velocity": 100,
+        "Type": "car",
+        "Price": 2000,
+        "engine": {
+            "EnginePower": 100,
+            "EngineVolume": 8,
+            "Compression": 100
+        }
+    },
+    {
+        "Velocity": 150,
+        "Type": "train",
+        "Price": 3000,
+        "engine": {
+            "EnginePower": 200,
+            "EngineVolume": 15,
+            "Compression": 120
+        }
+    }
+]

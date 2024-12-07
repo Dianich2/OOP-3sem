@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <type>new</type>
+  <Price>2000</Price>
+  <Velocity>250</Velocity>
+  <Type>new</Type>
+  <engine>
+    <EnginePower>3000</EnginePower>
+    <EngineVolume>8</EngineVolume>
+    <Compression>10</Compression>
+  </engine>
+  <Seats>
+    <Material>Винил</Material>
+    <Color>Black</Color>
+  </Seats>
+  <Model>BMW</Model>
+</Car>

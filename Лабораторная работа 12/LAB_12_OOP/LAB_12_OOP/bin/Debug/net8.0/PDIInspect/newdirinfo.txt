@@ -1,0 +1,35 @@
+
+Файлы на диске:
+C:\appverifUI.dll
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\SavedInputs-22-47-19__20-07-2024.cmsi
+C:\swapfile.sys
+C:\vfcompat.dll
+
+Директории на диске:
+C:\$Recycle.Bin
+C:\$WINDOWS.~BT
+C:\Documents and Settings
+C:\HDAudio
+C:\Intel
+C:\Microsoft
+C:\MinGW
+C:\OneDriveTemp
+C:\PDIInspect
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\pycharm
+C:\Recovery
+C:\Steam
+C:\System Volume Information
+C:\Telegram
+C:\Users
+C:\Visual Studio
+C:\Windows
+C:\ФИТ
+

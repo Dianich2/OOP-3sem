@@ -1,0 +1,63 @@
+Файл log: PDIlog.txt
+Путь к файлу: C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 12\LAB_12_OOP\LAB_12_OOP\bin\Debug\net8.0\PDIlog.txt
+Время записи: 04.11.2024 11:12:19
+Запись: 04.11.2024 11:12:19
+
+Имя диска: C:\
+Объем: 511239516160
+Доступный объем: 119026896896
+Метка тома: 
+Файловая система: NTFS
+-----
+Запись: 04.11.2024 11:12:19
+
+Путь: C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по ООП\Лабораторная работа 12\LAB_12_OOP\LAB_12_OOP\bin\Debug\net8.0
+Полное имя файла: PDIlog.txt
+Размер: 489
+Расширение: .txt
+Дата создания: 02.11.2024 22:44:07
+Дата изменения: 04.11.2024 11:12:19
+-----
+Запись: 04.11.2024 11:12:19
+
+Директория: net8.0
+Количество файлов: 6
+Время создания: 02.11.2024 18:29:08
+Количество поддиректорий: 1
+Список родительских директорий: Debug-----
+Запись: 04.11.2024 11:12:19
+
+Файлы на диске:
+C:\appverifUI.dll
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\SavedInputs-22-47-19__20-07-2024.cmsi
+C:\swapfile.sys
+C:\vfcompat.dll
+
+Директории на диске:
+C:\$Recycle.Bin
+C:\$WINDOWS.~BT
+C:\Documents and Settings
+C:\HDAudio
+C:\Intel
+C:\Microsoft
+C:\MinGW
+C:\OneDriveTemp
+C:\PDIInspect
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\pycharm
+C:\Recovery
+C:\Steam
+C:\System Volume Information
+C:\Telegram
+C:\Users
+C:\Visual Studio
+C:\Windows
+C:\ФИТ
+-----

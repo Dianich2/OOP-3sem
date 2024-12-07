@@ -1,0 +1,20 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Classes_x002B_Car id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/LAB_13_OOP/LAB_13_OOP%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Model_x003E_k__BackingField id="ref-2">BMW</_x003C_Model_x003E_k__BackingField>
+      <Seats>
+        <_x003C_Material_x003E_k__BackingField id="ref-3">Винил</_x003C_Material_x003E_k__BackingField>
+        <_x003C_Color_x003E_k__BackingField xsi:type="a1:Classes_x002B_TransportColor">Black</_x003C_Color_x003E_k__BackingField>
+      </Seats>
+      <type id="ref-4">new</type>
+      <Transport_x002B_price xsi:type="xsd:double">2000</Transport_x002B_price>
+      <Transport_x002B_velocity xsi:type="xsd:double">250</Transport_x002B_velocity>
+      <Transport_x002B__x003C_engine_x003E_k__BackingField href="#ref-5" />
+    </a1:Classes_x002B_Car>
+    <a1:Classes_x002B_Transport_x002B_Engine id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/LAB_13_OOP/LAB_13_OOP%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <enginePower xsi:type="xsd:double">3000</enginePower>
+      <_x003C_EngineVolume_x003E_k__BackingField xsi:type="xsd:double">8</_x003C_EngineVolume_x003E_k__BackingField>
+      <_x003C_Compression_x003E_k__BackingField xsi:type="xsd:double">10</_x003C_Compression_x003E_k__BackingField>
+    </a1:Classes_x002B_Transport_x002B_Engine>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

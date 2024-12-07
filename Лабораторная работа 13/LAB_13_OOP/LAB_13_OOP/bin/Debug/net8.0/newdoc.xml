@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <velocity>190</velocity>
+    <model>Scoda</model>
+    <price>1500</price>
+  </car>
+  <car>
+    <velocity>180</velocity>
+    <model>Fiat</model>
+    <price>1200</price>
+  </car>
+  <car>
+    <velocity>220</velocity>
+    <model>Opel</model>
+    <price>2200</price>
+  </car>
+</cars>
